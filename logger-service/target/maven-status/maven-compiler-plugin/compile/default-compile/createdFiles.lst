@@ -1,0 +1,3 @@
+com\example\logger\impl\LoggerServiceImpl.class
+com\example\logger\Activator.class
+com\example\logger\LoggerService.class
